@@ -5,19 +5,19 @@ NOAA’s Coastal Ocean Reanalysis (CORA) provides modeled historical water level
 
 
 # Notebooks:
-## ***1.  CORA_Accessing_Data.ipynb
+## 1.  CORA_Accessing_Data.ipynb
 This notebook demonstrates how users can access CORA datasets on NOAA's Open Data Dissemination (NODD) Platform through Amazon Web Services. Model data is extracted  from the nearest model node to a user-specified geographic coordinates and displayed in a timeseries plot. 
 
-## ***2.  CORA_Visualize_Water_Levels.ipynb
+## 2.  CORA_Visualize_Water_Levels.ipynb
 This notebook demonstrates how users can access CORA datasets on NOAA's Open Data Dissemination (NODD) Platform through Amazon Web Services and create a 2-dimensional water level surface plot.
 
-## ***3.  CORA_Plot_Mesh.ipynb
+## 3.  CORA_Plot_Mesh.ipynb
 Interested in viewing the bathymetry or mesh that was used in the model to create the CORA data? This notebook allows users to create a rasterized plot of the topobathy at the CORA model nodes and overlay the model mesh.
 
-## ***4.  CORA_Convert_Datums.ipynb
+## 4.  CORA_Convert_Datums.ipynb
 This notebook allows users to upload a .csv file of extracted CORA time series and run it through [NOAA’s Tidal Analysis Datum Calculator](https://access.co-ops.nos.noaa.gov/datumcalc/) ([TADC](https://access.co-ops.nos.noaa.gov/datumcalc/)) to convert data from Mean Sea Level (MSL) to other Datums. To run this notebook it will be necessary to also have the Python script and config file for the calculator, which are available on the GitHub repository.
 
-## ***5.  CORA_Compare_Time-Series.ipynb
+## 5.  CORA_Compare_Time-Series.ipynb
 This notebook retrieves observed hourly water levels from NWLON stations using CO-OPS [Data API](https://tidesandcurrents.noaa.gov/api-helper/url-generator.html) to compare with CORA data corresponding to the same location. 
 
 
