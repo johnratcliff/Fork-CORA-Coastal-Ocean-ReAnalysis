@@ -35,6 +35,10 @@ This notebook retrieves observed hourly water levels from NWLON stations using C
   - University of North Carolina’s [Renaissance Computing Institute](https://renci.org/)
   - [University of Hawaii Sea Level Center](https://uhslc.soest.hawaii.edu/)
 
+#  Additional code References: 
+   - [Dasher Triangular Meshes](https://github.com/holoviz/datashader/blob/f23de596f9adcb8188d48e6b163c36c913cd9912/examples/user_guide/6_Trimesh.ipynb#L11).
+   - [Reproducable Notebooks for Maximum Water Levels](https://github.com/reproducible-notebooks/hurricane-ike-water-levels/tree/master).
+
 # NOAA Open Source Disclaimer
 
 This repository is a scientific product and is not official communication of the National Oceanic and Atmospheric Administration, or the United States Department of Commerce. All NOAA GitHub project code is provided on an 'as is' basis and the user assumes responsibility for its use. Any claims against the Department of Commerce or Department of Commerce bureaus stemming from the use of this GitHub project will be governed by all applicable Federal law. Any reference to specific commercial products, processes, or services by service mark, trademark, manufacturer, or otherwise, does not constitute or imply their endorsement, recommendation or favoring by the Department of Commerce. The Department of Commerce seal and logo, or the seal and logo of a DOC bureau, shall not be used in any manner to imply endorsement of any commercial product or activity by DOC or the United States Government.
